@@ -3,3 +3,4 @@ mod problem_2;
 mod problem_3;
 mod problem_4;
 mod problem_5;
+mod problem_6;
